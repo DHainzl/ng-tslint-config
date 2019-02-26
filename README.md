@@ -30,5 +30,5 @@ git commit -am <commit msg>
 git push
 git tag 6.1.1
 git push origin 6.1.1
-npm publish
+npm publish --access public
 ```
