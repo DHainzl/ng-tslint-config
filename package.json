@@ -1,7 +1,7 @@
 {
     "name": "@dhainzl/ng-tslint-config",
     "description": "A TSLint config for my personal TypeScript Style for Angular projects",
-    "version": "7.2.0",
+    "version": "7.2.1",
     "author": "David Hainzl <david@dhainzl.at>",
     "bugs": {
       "url": "https://github.com/DHainzl/ng-tslint-config/issues"
