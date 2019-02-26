@@ -1,0 +1,40 @@
+{
+    "name": "@dhainzl/ng-tslint-config",
+    "description": "A TSLint config for my personal TypeScript Style for Angular projects",
+    "version": "7.2.0",
+    "author": "David Hainzl <david@dhainzl.at>",
+    "bugs": {
+      "url": "https://github.com/DHainzl/ng-tslint-config/issues"
+    },
+    "dependencies": {
+      "codelyzer": "^4.4.4",
+      "resolve-pkg": "^1.0.0",
+      "tslint-eslint-rules": "~5.3.1",
+      "tslint-jasmine-rules": "^1.5.1"
+    },
+    "devDependencies": {
+      "@angular/compiler": "^7.2.6",
+      "@angular/core": "^7.2.6",
+      "tslint": "~5.11.0",
+      "typescript": "~3.2.4",
+      "rxjs": "6.4.0",
+      "zone.js": "~0.8.26"
+    },
+    "peerDependencies": {
+        "@angular/compiler": "^7.2.6",
+        "@angular/core": "^7.2.6",
+        "tslint": "~5.11.0",
+        "typescript": "~3.2.4",
+        "rxjs": "6.4.0",
+        "zone.js": "~0.8.26"
+    },
+    "homepage": "https://github.com/DHainzl/ng-tslint-config/#readme",
+    "keywords": [
+      "tslint",
+      "typescript"
+    ],
+    "license": "MIT",
+    "main": "tslint.js",
+    "repository": "github:DHainzl/ng-tslint-config"
+  }
+  
