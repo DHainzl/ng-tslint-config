@@ -57,7 +57,6 @@ module.exports = {
         "no-string-literal": true,
         "no-switch-case-fall-through": true,
         "no-trailing-whitespace": true,
-        "no-unused-variable": true,
         "no-unused-expression": true,
         "no-use-before-declare": true,
         "no-var-keyword": true,
